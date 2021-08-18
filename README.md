@@ -1,17 +1,7 @@
-# oppknocksapp
+## Posting Experiment
 
-A new Flutter application.
+I was messing around with code to create an admin panel. The purpose of the admin panel is to be the only user to post discounts and promos. Those post will then be displayed on the homescreen for every user.
 
-## Getting Started
+This uses Firebase.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# posting_test
+This kinda works, it's really jank, but it work for now.
