@@ -6,4 +6,4 @@ This uses Firebase.
 
 Not null safe.
 
-This kinda works, it's really jank, but it work for now.
+This kinda works, it's really jank, but it works for now.
