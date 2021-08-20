@@ -4,4 +4,6 @@ I was messing around with code to create an admin panel. The purpose of the admi
 
 This uses Firebase.
 
+Not null safe
+
 This kinda works, it's really jank, but it work for now.
